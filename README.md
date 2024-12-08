@@ -1,3 +1,5 @@
+Yakuake theme based on tabsonly made by B.V. to be compatible with the Qogir theme on Plasma.
+
 Installation
 
 Open Yakuake and go to Configure Yakuake....
