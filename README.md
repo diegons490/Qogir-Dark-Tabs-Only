@@ -1,5 +1,8 @@
 Yakuake theme based on tabsonly made by B.V. to be compatible with the Qogir Dark Theme on Plasma.
 
+Qogir:
+https://github.com/vinceliuice/Qogir-theme
+
 Tabsonly:
 https://store.kde.org/p/1106258/
 
