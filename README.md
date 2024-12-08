@@ -1,4 +1,4 @@
-Yakuake theme based on tabsonly made by B.V. to be compatible with the Qogir theme on Plasma.
+Yakuake theme based on tabsonly made by B.V. to be compatible with the Qogir Dark Theme on Plasma.
 
 Installation
 
